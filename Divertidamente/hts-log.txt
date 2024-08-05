@@ -1,0 +1,25 @@
+HTTrack3.49-2 launched on Sun, 04 Aug 2024 20:33:08 at https://noticiasrecentesss.online/quizdivertida/quiz/
+(winhttrack https://noticiasrecentesss.online/quizdivertida/quiz/ -O "/Users/angelicaevinicius/Downloads/Produtos/Paginas Quizz/Divertidamente" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:33:27	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/motorolabr-favicon.ico (from https://noticiasrecentesss.online/quizdivertida/quiz/)
+20:33:27	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/js/bootstrap.bundle.min.js (from https://noticiasrecentesss.online/quizdivertida/quiz/)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/js/pixel.js (from https://noticiasrecentesss.online/quizdivertida/quiz/)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/js/crypto-js.min.js (from https://noticiasrecentesss.online/quizdivertida/quiz/)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/js/jquery-3.7.1.slim.min.js (from https://noticiasrecentesss.online/quizdivertida/quiz/)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/js/latest_1.js (from https://noticiasrecentesss.online/quizdivertida/quiz/)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-brands-400.woff2 (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-brands-400.ttf (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-regular-400.woff2 (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-regular-400.ttf (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-solid-900.woff2 (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-solid-900.ttf (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-v4compatibility.woff2 (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+20:33:35	Error: 	"Not Found" (404) at link https://noticiasrecentesss.online/quizdivertida/quiz/fonts/fa-v4compatibility.ttf (from https://noticiasrecentesss.online/quizdivertida/quiz/css/all.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 27 links scanned, 12 files written (2675665 bytes overall) [2358999 bytes received at 87370 bytes/sec], 616372 bytes transferred using HTTP compression in 26 files, ratio 22%, 9.0 requests per connection
+(14 errors, 0 warnings, 0 messages)

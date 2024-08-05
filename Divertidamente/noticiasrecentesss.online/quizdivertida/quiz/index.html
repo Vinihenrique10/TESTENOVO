@@ -1,0 +1,83 @@
+
+
+<html lang="pt-br">
+<!-- Mirrored from noticiasrecentesss.online/quizdivertida/quiz/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 04 Aug 2024 23:33:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="icon" href="motorolabr-favicon.html" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="motorolabr-favicon.html">
+    <script src="js/bootstrap.bundle.min.html"></script>
+    <script src="js/latest.js" async defer=""></script>
+ 
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+  
+    <script type="text/javascript">
+      window.hasMobileFirstExtension = true;
+    </script>
+    <title>Pesquisa Divertidamente 2</title>
+  <script async="" defer="" src="js/pixel.html"></script></head>
+  <body>
+    <div id="app"></div>
+
+    <audio id="trilha" loop="">
+      <source src="som_divertidamente.mp3" type="audio/mpeg">
+      Seu navegador não suporta o elemento de áudio.
+    </audio>
+  
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var trilha = document.getElementById('trilha');
+        trilha.volume = 0.06;
+  
+        function tentarTocarAudio() {
+          trilha.play().catch(function(error) {
+            console.log("Reprodução automática falhou. Tentando novamente...");
+            setTimeout(tentarTocarAudio, 1000); // Tenta novamente após 1 segundo
+          });
+        }
+  
+        tentarTocarAudio();
+      });
+    </script>
+    <script src="js/hideAllExcept.js"></script>
+    <script src="js/selectedCard.js"></script>
+    <script src="js/selectedResponse.js"></script>
+    <script src="js/buttonCheck.js"></script>
+    <script src="js/popup.js"></script>
+    <script src="js/sendResponse.js"></script>
+    <script type="text/javascript" src="js/crypto-js.min.html"></script>
+    <script src="js/jquery-3.7.1.slim.min.html" crossorigin="anonymous"></script>
+  
+    <script>
+      $(document).ready(function () {
+        let data = new Date();
+  
+        var date = data.getDate();
+        var month = [
+          "Janeiro",
+          "Fevereiro",
+          "Março",
+          "Abril",
+          "Maio",
+          "Junho",
+          "Julho",
+          "Agosto",
+          "Setembro",
+          "Outubro",
+          "Novembro",
+          "Dezembro",
+        ][data.getMonth()];
+        var year = data.getFullYear();
+  
+        $("#diaHoje").html(`${date} de ${month} às 23:59`);
+      });
+    </script>
+
+<script src="js/latest_1.html" async="" defer=""></script>
+  </body>
+<!-- Mirrored from noticiasrecentesss.online/quizdivertida/quiz/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 04 Aug 2024 23:33:27 GMT -->
+</html>
